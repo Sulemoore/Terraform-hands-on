@@ -1,2 +1,5 @@
+#### Architecture
 
-![Screenshot 2023-09-24 at 10 39 52 PM](https://github.com/Sulemoore/Terraform-hands-on/assets/101164153/5980c855-eb91-4654-88b8-0539630165c7)
+
+
+![Untitled design (2)](https://github.com/Sulemoore/Terraform-hands-on/assets/101164153/453b8cbb-a678-44e8-a3e4-066fd0f28df8)
